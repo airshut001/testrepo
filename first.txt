@@ -19,8 +19,7 @@ IPv4 (A)
 Instance type
 t2.micro
 Elastic IP addresses
-–
-Auto-assigned IP address
+
  65.2.82.178 [Public IP]
 VPC ID
  vpc-058671576c8e55ae3 (vpc01) 
