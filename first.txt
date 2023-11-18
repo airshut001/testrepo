@@ -30,6 +30,3 @@ Opt-in to AWS Compute Optimizer for recommendations.
 Learn more 
 IAM Role
 –
-Subnet ID
- subnet-013f0fe0d4514f502 
-Auto Scaling Group name
